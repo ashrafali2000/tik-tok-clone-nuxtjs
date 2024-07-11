@@ -1,1 +1,1 @@
-# tick-tock-clone-nuxtjs
+# tik-tok-clone-nuxtjs
